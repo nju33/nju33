@@ -1,7 +1,3 @@
 {
-  "version": 2,
-  "alias": "badgen.badge.nju33.com",
-  "env": {
-    "BIRTH_DATETIME": "@nju33-birth-datetime"
-  }
+  "version": 2
 }
